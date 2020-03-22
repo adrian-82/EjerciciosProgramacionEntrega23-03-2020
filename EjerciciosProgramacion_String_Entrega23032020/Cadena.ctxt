@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cadena
+comment0.text=\r\n\ Clase\ que\ nos\ permite\ codificar\ cadenas\r\n\ de\ forma\ al\ azar\ y\ de\ forma\ determinada.\r\n\ \r\n\ @author\ Adri\u00E1n\ Laya\ Garc\u00EDa.\r\n\ @version\ 22/03/2020\r\n
+comment1.params=
+comment1.target=Cadena()
+comment1.text=\r\n\ Constructor\ \r\n
+comment2.params=cadena
+comment2.target=void\ codificarAlAzar(java.lang.String)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=3
