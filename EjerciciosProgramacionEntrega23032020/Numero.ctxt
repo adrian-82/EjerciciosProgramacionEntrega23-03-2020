@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Numero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Numero\ here.\r\n\ \r\n\ @author\ Adri\u00E1n\ Laya\ Garc\u00EDa.\r\n\ @version\ 22/03/2020\r\n
+comment1.params=
+comment1.target=Numero()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Numero\r\n
+comment2.params=num
+comment2.target=void\ conjuntoDivisores(int)
+comment2.text=\r\n\ Carga\ en\ la\ lista\ todos\ los\ divisores\ del\ n\u00FAmero.\r\n\ \r\n\ @param\ \ num,\ numero\ entero\ introducido\ por\ teclado\r\n\ @return\ Los\ diferentes\ divisores\ enteros\ de\ ese\ n\u00FAmero.\ \r\n
+comment3.params=
+comment3.target=void\ imprimir()
+comment3.text=\r\n\ Imprime\ \ los\ divisores\ de\ un\ n\u00FAmero.\ \r\n\ \r\n\ @param\ num1,\ numero\ entero\ \r\n\ @param\ num2,\ n\u00FAmero\ entero\r\n
+comment4.params=
+comment4.target=void\ listadedivisores()
+comment4.text=\r\n\ Crea\ la\ lista\ de\ divisores\ de\ cada\ uno\ de\ los\ n\u00FAmeros.\ \r\n\ \r\n\ @param\ num1,\ numero\ entero\ \r\n\ @param\ num2,\ n\u00FAmero\ entero\r\n
+comment5.params=
+comment5.target=void\ esAmigode()
+comment5.text=da\ fallo\ aqui
+numComments=6

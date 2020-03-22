@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Empieza\ el\ juego\ desde\ un\ men\u00FA\ en\ el\ que\ interact\u00FAa\ el\ usuario.\r\n\ \r\n\ @author\ Adri\u00E1n\ Laya\ Garc\u00EDa.\r\n\ @version\ 21/03/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

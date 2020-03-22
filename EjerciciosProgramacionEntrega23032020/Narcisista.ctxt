@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Narcisista
+comment0.text=\r\n\ Clase\ con\ la\ que\ interactuamos\ para\ saber\ si\ un\ n\u00FAmero\ es\ Narcisista.\r\n\ \r\n\ @author\ Adri\u00E1n\ Laya\ Garc\u00EDa\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Narcisista()
+comment1.text=\r\n\ Constructor\ \r\n
+comment2.params=num
+comment2.target=boolean\ esNarcisista(int)
+comment2.text=\r\n\ M\u00E9todo\ que\ nos\ devuelve\ si\ un\ n\u00FAmero\ es\ Narcisista\ o\ n\u00F3,\r\n\ \r\n\ @param\ \ num,\ un\ n\u00FAmero\ entero\r\n\ @return\ true\ en\ caso\ de\ ser\ Narcisista\r\n\ @return\ false\ en\ caso\ de\ no\ ser\ Narcisista.\r\n
+comment3.params=num
+comment3.target=int\ sumaPotencias(int)
+comment3.text=\r\n\ M\u00E9todo\ que\ suma\ las\ potencias\ de\ cada\ digito\ \r\n\ elevado\ al\ n\u00FAmero\ de\ digitos,\r\n\ \r\n\ @param\ \ num,\ un\ n\u00FAmero\ entero\r\n\ @return\ true\ en\ caso\ de\ ser\ Narcisista\r\n\ @return\ false\ en\ caso\ de\ no\ ser\ Narcisista.\r\n
+numComments=4
