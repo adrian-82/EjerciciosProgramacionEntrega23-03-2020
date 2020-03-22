@@ -1,3 +1,5 @@
+package EjerciciosProgramacionEntrega23032020;
+
 import java.util.Scanner;
 import java.lang.ArithmeticException;
 /**
@@ -97,7 +99,7 @@ Numero.listarNarcisistas (3) 
 
 pasarARomano Pasa un número (entre 1 y 4000) a números romanos. 
 Por ejemplo:    Numero numero = new Numero (2011);
-numero.pasarARomano ( )  “MMXI”
+numero.pasarARomano ( )  “MMXI�?
 
 AYUDA
 Usa un arreglo con todos los posibles valores: 1000,  900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1
