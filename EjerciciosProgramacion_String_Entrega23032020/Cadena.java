@@ -1,3 +1,5 @@
+package EjerciciosProgramacion_String_Entrega23032020;
+
 import java.util.Scanner;
 /**
  * Clase que nos permite codificar cadenas
